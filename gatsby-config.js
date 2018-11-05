@@ -3,7 +3,7 @@ module.exports = {
     title: 'Yo Traveller',
   },
   plugins: [
-    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-react-helmet', 'gatsby-plugin-offline',
     {
       resolve: `gatsby-source-filesystem`,
       options: {

@@ -5,8 +5,8 @@ import Image from '../components/image'
 const TravelPage =  () => {
     return (
     <Layout>
-        <h1>Create Your Travel Story</h1>
-        <p>We are excited to have you here creating an amazing Travel Story of Yours! Go On</p>
+        <h1>Travel Saga</h1>
+        <p>Look those amazing Travel Experiences!</p>
         <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
             <Image />
         </div>
