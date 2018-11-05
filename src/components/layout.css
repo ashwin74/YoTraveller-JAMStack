@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -333,6 +334,7 @@ hgroup {
   margin-bottom: 1.45rem;
 }
 ul {
+  font-family: 'Open Sans', sans-serif;
   margin-left: 1.45rem;
   margin-right: 0;
   margin-top: 0;
@@ -377,6 +379,7 @@ dd {
   margin-bottom: 1.45rem;
 }
 p {
+  font-family: 'Open Sans', sans-serif;
   margin-left: 0;
   margin-right: 0;
   margin-top: 0;
