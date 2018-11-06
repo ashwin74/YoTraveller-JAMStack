@@ -43,7 +43,7 @@ export default class Auth {
         }
 
         // Return to the homepage after authentication.
-        navigateTo('/');
+        navigateTo('/create-album');
       });
     }
   }
